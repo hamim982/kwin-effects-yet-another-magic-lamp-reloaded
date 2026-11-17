@@ -19,7 +19,7 @@ This project was originally created by [Vlad Zahorodnii](https://github.com/zzag
 Clone the repository and run the install script — it will check and install all required dependencies automatically, then build and install the effect.
 
 ```yaml
-git clone https://github.com/koryboc/kwin-effects-yet-another-magic-lamp-reloaded.git
+git clone https://github.com/hamim982/kwin-effects-yet-another-magic-lamp-reloaded.git
 cd kwin-effects-yet-another-magic-lamp-reloaded
 chmod +x ./install.sh
 ./install.sh
